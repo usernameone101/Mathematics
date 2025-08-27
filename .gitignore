@@ -1,3 +1,36 @@
-#LaTeX intermediate files
+# LaTeX intermediate files
 *.aux
-*.log
+*.bbl
+*.blg
+*.brf
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.out
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.nav
+*.snm
+*.vrb
+*.xdv
+
+# Common backup/temporary files
+*~
+*.bak
+*.backup
+*.tmp
+*.swp
+
+# VS Code settings
+.vscode/
